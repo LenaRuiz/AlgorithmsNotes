@@ -1,7 +1,7 @@
 # AlgorithmsNotes
-Summaries of the Algorithms and Data Structure II labs I'm leading this semester.
+Notes on algorithms and data structures.
 
-I hope to update this weekly with summaries of each set of labs. 
+I hope to update this weekly with my TAing notes various topics. 
 
 Possible topics include:
 
@@ -18,4 +18,3 @@ Possible topics include:
 -strings
 -network flow
 -graph properties
-
